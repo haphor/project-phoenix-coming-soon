@@ -9,8 +9,6 @@
         <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
-        <!-- jQuery min core-->
-        <script src="https://code.jquery.com/jquery-3.4.1.js"></script> 
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/style.css" rel="stylesheet" />
     </head>
@@ -38,6 +36,8 @@
             </div>
         </div>
         <footer>
+            <!-- jQuery min core-->
+            <script src="https://code.jquery.com/jquery-3.5.1.min.js" ></script>
             <!-- Bootstrap core JS-->
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
             <!-- Core theme JS-->
