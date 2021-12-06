@@ -2,7 +2,7 @@
     $servername='localhost';
     $username='worker';
     $password='9h()en!x';
-    $dbname = "phoenix_customers";
+    $dbname = "phoenix_customer";
    
     $conn=mysqli_connect($servername,$username,$password,"$dbname");
     if(!$conn){

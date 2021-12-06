@@ -22,7 +22,7 @@
                     </div>
                     <div id="timer"></div>
                     <h1 class="lh-1 mb-4">Our Website is Coming <span>Soon!</span></h1>
-                    <p class="mb-5">Join the waitlist to receive updates and to be notified when we launch!</p>
+                    <p class="mb-5">Join the waitlist to receive updates and get notified when we launch!</p>
                     <form action="javascript:void(0)" method="post" id="wait-form">
                         <!-- Email address input-->
                         <div class="form-group ">

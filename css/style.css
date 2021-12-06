@@ -11134,12 +11134,12 @@ input.btn:hover {
 @media (max-width: 767px) {
     body {
         background: url(../images/new-page-bg.jpg) no-repeat;
-        background-size: cover;
+        background-size: contain;
     }
     .masthead {
         width: 100%;
     }
     .masthead:before {
-        opacity: 0.5;
+        opacity: 0.3;
     }
 }
